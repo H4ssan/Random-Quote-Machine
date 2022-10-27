@@ -1,0 +1,28 @@
+body{
+  background-color: #ddede9;
+}
+#quote-box{
+  background-color: #95c9bb;
+  border: #DDDDDD;
+  width: 25%;
+  min-height: 230px;
+  margin: auto;
+  padding: 35px;
+  box-shadow: 0 0 5px rgba(81, 203, 238, 1);
+  border: 3px solid rgba(81, 203, 238, 1);
+}
+
+#new-quote{
+  padding: 10px;
+  background-color: #ddede9;
+  border: 1px solid rgba(81, 203, 238, 1);
+  float: right;
+}
+
+a{
+  text-decoration: none;  
+}
+
+#tweet-quote i{
+  font-size: 35px;
+}
