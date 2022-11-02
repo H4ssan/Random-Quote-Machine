@@ -1,4 +1,4 @@
 # Random Quote Machine
-Radom Quote Machine developed using React, Javascript, CSS & HTML
+Random Quote Machine developed using React, Javascript, CSS & HTML
 A Pen created on CodePen.io. Original URL: [https://codepen.io/h4ssan/pen/yLbRxdr](https://codepen.io/h4ssan/pen/yLbRxdr).
 
